@@ -8,7 +8,7 @@ Place your dataset in the `data/ directory`.
 Run `pip install -r requirements.txt` to install the necessary packages.
 Execute `python .\main.py` to run the entire workflow, from data loading to model training and evaluation.
 
-# Estructure
+# Structure
 rainfall_prediction/  
 │  
 ├── data/  
