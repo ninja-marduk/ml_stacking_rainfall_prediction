@@ -1,4 +1,4 @@
-# ml_stacking_rainfall_prediction
+# ML stacking rainfall prediction
 Precipitation prediction models
 
 
